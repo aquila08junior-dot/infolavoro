@@ -81,7 +81,6 @@ public class Main {
                         System.out.println(el.getDescrizione());
                         System.out.println("Consumo annuo: " + el.calcolaConsumoAnnuale() + " kWh");
                         System.out.println("Costo annuo stimato: " + el.calcolaCostoAnnuale() + " €");
-                        System.out.println("---------------------------");
                     }
                     break;
 
